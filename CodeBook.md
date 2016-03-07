@@ -1,7 +1,7 @@
 ---
 title: "Summary Human Activity Recognition Using Smartphones Dataset"
 author: "Glen Flint"
-date: "October 18, 2015"
+date: " March 7, 2016"
 output: html_document
 ---
 

@@ -1,5 +1,8 @@
 #run_analysis.R
 <p>
+This has been updated to test git.
+
+This is for bug# 4567
 run_analysis.R assumes that the Samsung data directory "UCI HAR Dataset" has been unzipped into the current working directory.  In order to merge the test and training dataset found in the directory "UCI HAR Dataset" into one dataset type:
 </p>
 ```{r}
